@@ -1,1 +1,3 @@
-SIMPLE ANDROID DICTIONARY PROVIDER EXAMPLE
+Udacity Android Developer Nanodegree supporting exercise
+
+ANDROID DICTIONARY PROVIDER EXAMPLE
