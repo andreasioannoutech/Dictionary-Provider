@@ -52,6 +52,11 @@ public class MainActivity extends ActionBarActivity {
 
         dictListView.setAdapter(adapter);
 
+
+
+        /*
+        MANUAL METHOD
+         */
 //        try{
 //            dictTextView.setText("The UserDictionary contains " + cursor.getCount() + " words\n");
 //            dictTextView.append("COLUMNS: " + Words._ID + " - " + Words.FREQUENCY + " - " + Words.WORD);
